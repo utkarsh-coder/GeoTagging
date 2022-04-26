@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "988078864840",
+    "project_id": "geotagging-6ab55",
+    "storage_bucket": "geotagging-6ab55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988078864840:android:1222a5f644e50d56e128fd",
+        "android_client_info": {
+          "package_name": "com.example.geotagging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988078864840-sc34lcbuob73lcqtjaeeujc05ltbgd3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIJlZS-Zq_ex5wjR8KGwdsEg2fiPak7So"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988078864840-sc34lcbuob73lcqtjaeeujc05ltbgd3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
